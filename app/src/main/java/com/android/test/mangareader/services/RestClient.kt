@@ -1,4 +1,4 @@
-package com.android.test.mangareader.Services
+package com.android.test.mangareader.services
 
 import android.content.Context
 import android.net.ConnectivityManager
@@ -14,6 +14,8 @@ import retrofit2.converter.gson.GsonConverterFactory
 import java.io.IOException
 import java.lang.UnsupportedOperationException
 import java.util.concurrent.TimeUnit
+import com.android.test.mangareader.BuildConfig
+
 
 
 object RestClient {

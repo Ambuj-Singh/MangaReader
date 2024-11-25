@@ -1,4 +1,4 @@
-package com.android.test.mangareader.Services;
+package com.android.test.mangareader.services;
 
 import com.google.gson.ExclusionStrategy;
 import com.google.gson.FieldAttributes;

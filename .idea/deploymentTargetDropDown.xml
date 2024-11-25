@@ -5,6 +5,25 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="preview">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="C:\Users\sambu\.android\avd\Pixel_8_API_30.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-10-15T11:38:35.113934600Z" />
+        </State>
+      </entry>
+      <entry key="previewMainScreen">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
